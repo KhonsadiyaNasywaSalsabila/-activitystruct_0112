@@ -10,7 +10,7 @@ struct DetailAlamat {
 
 };
 
-struct mahasiswa {
+struct Mahasiswa {
 	string nim;
 	string nama;
 	DetailAlamat alamat;
@@ -18,4 +18,11 @@ struct mahasiswa {
 
 };
 
+int main() {
+	Mahasiswa mhs[3];
+	for (int i = 0; i < 3; i++) {
+
+	}
+
+}
 
